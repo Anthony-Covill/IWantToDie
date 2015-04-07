@@ -1,4 +1,4 @@
 # IWantToDie
 (optional)
-true^
-^
+bye bye txt
+
